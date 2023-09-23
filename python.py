@@ -1,2 +1,2 @@
 print("linux")
-print("")
+print("windows")
